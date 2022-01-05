@@ -1,7 +1,13 @@
 # LVC_lifespan
-This repository accompanies the article "On the probability and direction of morphosyntactic lifespan change". All data can be found in 'data'. All code to replicate the analysis can be found in R markdown notebook. When using this material, please cite:
+This repository accompanies the article "On the probability and direction of morphosyntactic lifespan change". All data can be found in 'data_lifespan_brm'. All code to replicate the analysis can be found in R markdown notebook. When using this material, please cite:
 
 Fonteyn, Lauren & Peter Petré. forthc. On the probability and direction of morphosyntactic lifespan change. Language Variation and Change.
+
+---
+
+**Abstract**
+
+The aim of this study is to further contribute to the ongoing debate regarding the nature of ‘morphosyntactic lifespan change’, defined here as observable shifts in the grammatical choices individuals make between competing morphosyntactic structures. Through a quantitative case study of competition between two types of ing-nominals in 17th-century English, in which we factor in the grammatical contexts in which the variant structures can be used, we show that individuals vary in the extent to which they participate in the contextual diffusion of a new structure. We furthermore show that there is inter-individual variability with respect to whether and what kind of lifespan change (frequency, constraint, and inventory change) is attested, and highlight different patterns of intra-individual change (progressive, retrograde, and ‘mixed’).
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
