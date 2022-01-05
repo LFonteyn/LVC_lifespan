@@ -1,5 +1,5 @@
 # LVC_lifespan
-This repository accompanies the article "On the probability and direction of morphosyntactic lifespan change". All data can be found in the 'data' folder. All code to replicate the analysis can be found in R markdown notebook. When using this material, please cite:
+This repository accompanies the article "On the probability and direction of morphosyntactic lifespan change". All data can be found in 'data'. All code to replicate the analysis can be found in R markdown notebook. When using this material, please cite:
 
 Fonteyn, Lauren & Peter Petré. forthc. On the probability and direction of morphosyntactic lifespan change. Language Variation and Change.
 
